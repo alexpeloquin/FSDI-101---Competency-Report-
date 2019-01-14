@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#container {
+    width: auto;
+    height: auto;
+}
+
+#container img {
+    display: block;
+    width: 75%;
+    border: 4px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#headers {
+    letter-spacing: 48px;
+    font-size: 48px;
+    text-align: center;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+}
+#blogtops {
+    font-size:18px;
+    margin-left: 20px; 
+}
+
+#blogbits {
+    margin-left: 40px;
+    margin-right: 15px;
+    text-indent: 50px;  
+    font-size:14px;
+}
+
+#refsmedia {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+#resources {
+    margin-left: 40px;
+    font-size: 14px;
+    margin-top:-5px;
+}
+
+#resourcelinks {
+    margin-left:80px;
+    font-size:12px;
+    margin-top:-15px;
+}
+
+#minortext {
+    margin-left:20px;
+    font-size:14px;
+    margin-top:-10px;
+}
+
+#submit {
+    border: 1px solid black;
+    margin-left: 200px;
+}
